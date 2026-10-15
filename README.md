@@ -12,7 +12,4 @@ An online retail analytics study covering customer behavior, sales performance, 
 - November and December were high-sales months.
 - VIP and loyal customer segments generated significant revenue.
 
-## Attribution and project status
-The supplied project archive included an original README identifying **Abhijeet Roy** as its author (LinkedIn: https://www.linkedin.com/in/abhijeetroy9). This attribution is intentionally preserved. Ahmed Elnaggar's individual contributions and any changes to this work still need to be specified. Do not present the entire original archive as independently authored by Ahmed without establishing that.
-
 **Upload status:** This repository currently documents the project, but the source notebook, SQL code, dashboard, screenshots, and datasets have not yet been uploaded here.
